@@ -1,0 +1,7 @@
+let a = "hola"
+let b = "lotto"
+  
+const saludo = (a + b + "buenos dias") 
+ 
+  console.log (saludo) 
+  
